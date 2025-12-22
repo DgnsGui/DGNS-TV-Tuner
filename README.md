@@ -89,11 +89,18 @@ git clone https://github.com/DgnsGui/DGNS-TV-Tuner.git
 ⚠️ Important — Missing Packages After Cloning
 Spectacles Interaction Kit & UI Kit
 
-After cloning this repository, you may notice that some Spectacles-specific packages are missing, such as:
+After cloning this repository, Lens Studio may indicate that some Spectacles-specific packages are missing, including:
 
-WebKit, Spectacles Interaction Kit and Spectacles UI Kit
+WebKit
 
-To resolve this please open Asset Library and enable WebKit, Spectacles Interaction Kit and Spectacles UI Kit. https://github.com/user-attachments/assets/3a993d83-b515-4aa8-a03b-13d27f11c4e3
+Spectacles Interaction Kit
+
+Spectacles UI Kit
+
+This is expected behavior.
+
+To resolve the issue, simply open Lens Studio, go to the Asset Library, and enable the missing packages listed above.
+Once enabled, the project will automatically reconfigure itself and function as intended.
 
 
 Why?
