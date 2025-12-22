@@ -90,4 +90,6 @@ git clone https://github.com/DgnsGui/DGNS-TV-Tuner.git
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 ```
-Developed with ❤️ by GuillaumeDGNS
+<p align="center">
+  Developed with ❤️ by GuillaumeDGNS
+</p>
