@@ -1,0 +1,17 @@
+# Lens Studio generated folders
+Cache/
+Workspaces/
+Packages/
+PluginsUserPreferences/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Temporary / lock files
+*.lock
+*.tmp
+*.log
+
+# User-specific configs
+*.user

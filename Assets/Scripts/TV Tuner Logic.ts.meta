@@ -1,0 +1,172 @@
+- !<AssetImportMetadata/20ab2709-3b05-4d3a-babd-66dbe6d09167>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 0c564caf-7235-4828-b0b9-6d1bf9a19766
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 0c564caf-7235-4828-b0b9-6d1bf9a19766
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 9a7451f7-15fc-4416-a447-d4a293d5ded8
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/9a7451f7-15fc-4416-a447-d4a293d5ded8>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b0bae434-71a7-4e5c-82f6-d2113b8029ae
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    acknowledgeHelpButton: false
+    acknowledgeWelcomeButton: false
+    activeButtonScale: false
+    animationDuration: false
+    buttons: false
+    currentChannelText: false
+    exitFullScreenButton: false
+    fullScreenActiveButtonScale: false
+    fullScreenButton: false
+    fullScreenButtons: false
+    fullScreenContainer: false
+    fullScreenCurrentChannelText: false
+    fullScreenInactiveButtonScale: false
+    fullScreenNextChannelButton: false
+    fullScreenPrevChannelButton: false
+    fullScreenWebViews: false
+    helpButtonFromTV: false
+    helpButtonFromWelcome: false
+    helpContainer: false
+    inactiveButtonScale: false
+    nextChannelButton: false
+    palmActiveButtonScale: false
+    palmBackgroundChanButton: false
+    palmBackgroundCurrentChannel: false
+    palmButtons: false
+    palmCurrentChannelText: false
+    palmFullScreenButton: false
+    palmInactiveButtonScale: false
+    palmNextChannelButton: false
+    palmPrevChannelButton: false
+    palmWebViewNames: false
+    prevChannelButton: false
+    tv1Container: false
+    webViewNames: false
+    webViews: false
+    welcomeContainer: false
+    welcomeVideo1: false
+    welcomeVideo2: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - webViews: !<reference.SceneObject[]>
+        []
+      buttons: !<reference.SceneObject[]>
+        []
+      webViewNames: !<string[]>
+        []
+      prevChannelButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      nextChannelButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      fullScreenButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      currentChannelText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      tv1Container: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      welcomeContainer: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      helpContainer: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      helpButtonFromTV: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      helpButtonFromWelcome: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      acknowledgeHelpButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      acknowledgeWelcomeButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      welcomeVideo1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      welcomeVideo2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      activeButtonScale: 1.200000
+      inactiveButtonScale: !<float> 1.000000
+      animationDuration: 0.300000
+      palmButtons: !<reference.SceneObject[]>
+        []
+      palmWebViewNames: !<string[]>
+        []
+      palmPrevChannelButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      palmNextChannelButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      palmFullScreenButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      palmCurrentChannelText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      palmBackgroundCurrentChannel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      palmBackgroundChanButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      palmActiveButtonScale: 1.200000
+      palmInactiveButtonScale: !<float> 1.000000
+      fullScreenContainer: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      fullScreenWebViews: !<reference.SceneObject[]>
+        []
+      fullScreenButtons: !<reference.SceneObject[]>
+        []
+      fullScreenPrevChannelButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      fullScreenNextChannelButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      exitFullScreenButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      fullScreenCurrentChannelText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      fullScreenActiveButtonScale: 1.200000
+      fullScreenInactiveButtonScale: !<float> 1.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - "// @input SceneObject[] webViews"
+    - "// @input SceneObject[] buttons"
+    - '// @input string[] webViewNames = {} {"hint":"Noms des chaînes (doit correspondre au nombre de WebViews)"}'
+    - // @input SceneObject prevChannelButton
+    - // @input SceneObject nextChannelButton
+    - // @input SceneObject fullScreenButton
+    - '// @input Component.Text currentChannelText {"hint":"Texte affichant le nom de la chaîne actuelle"}'
+    - "// @input SceneObject tv1Container {\"hint\":\"Container principal de l'interface TV\"}"
+    - "// @input SceneObject welcomeContainer {\"hint\":\"Container d'accueil au démarrage\"}"
+    - "// @input SceneObject helpContainer {\"hint\":\"Container d'aide\"}"
+    - "// @input SceneObject helpButtonFromTV {\"hint\":\"Bouton '?' dans TV1 Container\"}"
+    - "// @input SceneObject helpButtonFromWelcome {\"hint\":\"Bouton '?' dans Welcome Container\"}"
+    - "// @input SceneObject acknowledgeHelpButton {\"hint\":\"Bouton 'Acknowledge' dans Help Container\"}"
+    - "// @input SceneObject acknowledgeWelcomeButton {\"hint\":\"Bouton 'Acknowledge' dans Welcome Container\"}"
+    - '// @input SceneObject welcomeVideo1 {"hint":"Vidéo 1 dans Welcome Container"}'
+    - '// @input SceneObject welcomeVideo2 {"hint":"Vidéo 2 dans Welcome Container (TriibG1retake)"}'
+    - // @input float activeButtonScale = 1.2
+    - // @input float inactiveButtonScale = 1
+    - '// @input float animationDuration = 0.25 {"hint":"Durée des animations (secondes)"}'
+    - '// @ui {"widget":"group_start", "label":"Palm Buttons - Boutons de chaînes"}'
+    - '// @input SceneObject[] palmButtons {"hint":"Boutons de chaîne dans la paume (même ordre que buttons)"}'
+    - '// @input string[] palmWebViewNames = {} {"hint":"Noms des chaînes pour la paume (optionnel, sinon utilise webViewNames)"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Palm Controls - Contrôles de navigation"}'
+    - '// @input SceneObject palmPrevChannelButton {"hint":"Bouton Chaîne précédente dans la paume"}'
+    - '// @input SceneObject palmNextChannelButton {"hint":"Bouton Chaîne suivante dans la paume"}'
+    - '// @input SceneObject palmFullScreenButton {"hint":"Bouton Full Screen dans la paume"}'
+    - '// @input Component.Text palmCurrentChannelText {"hint":"Texte du nom de chaîne dans la paume"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Palm Background Elements - Éléments de fond"}'
+    - '// @input SceneObject palmBackgroundCurrentChannel {"hint":"Bouton de fond derrière le texte Current Channel"}'
+    - '// @input SceneObject palmBackgroundChanButton {"hint":"Bouton de fond derrière le bouton Chan."}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Palm Appearance - Apparence"}'
+    - '// @input float palmActiveButtonScale = 1.2 {"hint":"Scale des boutons actifs dans la paume"}'
+    - '// @input float palmInactiveButtonScale = 1 {"hint":"Scale des boutons inactifs dans la paume"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Full Screen - Plein écran"}'
+    - '// @input SceneObject fullScreenContainer {"hint":"Container Full Screen principal"}'
+    - '// @input SceneObject[] fullScreenWebViews {"hint":"WebViews Full Screen (même ordre que webViews)"}'
+    - '// @input SceneObject[] fullScreenButtons {"hint":"Boutons de chaîne Full Screen"}'
+    - '// @input SceneObject fullScreenPrevChannelButton {"hint":"Bouton Chaîne précédente Full Screen"}'
+    - '// @input SceneObject fullScreenNextChannelButton {"hint":"Bouton Chaîne suivante Full Screen"}'
+    - '// @input SceneObject exitFullScreenButton {"hint":"Bouton Exit Full Screen"}'
+    - '// @input Component.Text fullScreenCurrentChannelText {"hint":"Texte du nom de chaîne Full Screen"}'
+    - '// @input float fullScreenActiveButtonScale = 1.2 {"hint":"Scale des boutons actifs Full Screen"}'
+    - '// @input float fullScreenInactiveButtonScale = 1 {"hint":"Scale des boutons inactifs Full Screen"}'
+    - '// @ui {"widget":"group_end"}'
