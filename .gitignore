@@ -5,10 +5,7 @@
 # If you want to make changes to this file, please put them either above or below this section.
 
 Cache/**
-PluginsUserPreferences/**
-Support/**
 BackUp/**
-Workspaces/**
 .vscode/
 /jsconfig.json
 /tsconfig.json
