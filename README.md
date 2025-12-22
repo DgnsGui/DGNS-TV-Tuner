@@ -112,5 +112,7 @@ They are intentionally excluded from version control to keep the repository clea
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-<p align="center"> Developed with ❤️ by <strong>GuillaumeDGNS</strong> </p>
+
+Developed with ❤️ by <strong>GuillaumeDGNS
+
 
