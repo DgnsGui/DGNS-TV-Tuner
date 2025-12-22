@@ -91,18 +91,15 @@ Spectacles Interaction Kit & UI Kit
 
 After cloning this repository, you may notice that some Spectacles-specific packages are missing, such as:
 
-Spectacles Interaction Kit
+WebKit, Spectacles Interaction Kit and Spectacles UI Kit
 
-Spectacles UI Kit
+To resolve this please open Asset Library and enable WebKit, Spectacles Interaction Kit and Spectacles UI Kit. <img width="1809" height="1393" alt="image" src="https://github.com/user-attachments/assets/3a993d83-b515-4aa8-a03b-13d27f11c4e3" />
 
-Other Snap-provided Lens Studio packages
-
-This is expected behavior.
 
 Why?
 
 These packages are not distributed through GitHub and are instead managed directly by Lens Studio.
-They are intentionally excluded from version control to keep the repository clean, lightweight, and compliant with Snap’s distribution model.
+They are intentionally excluded from version control to keep the repository clean.
 
 📄 License
 This project is licensed under the MIT License.
