@@ -1,35 +1,66 @@
-# Shipped by Lens Studio
+###############################################################################
+# Lens Studio – GENERATED / CACHE (DO NOT VERSION)
+###############################################################################
 
-# The lines below are automatically generated and updated by Lens Studio.
-# Please do not modify them manually, as changes will be overwritten each time!
-# If you want to make changes to this file, please put them either above or below this section.
-
-Cache/**
-PluginsUserPreferences/**
-Support/**
-BackUp/**
-Workspaces/**
-.vscode/
-/jsconfig.json
-/tsconfig.json
-.DS_Store
-*.lock
-
-# Shipped by Lens Studio
-# Lens Studio generated folders
+# Core caches
 Cache/
 Workspaces/
-Packages/
+BackUp/
 PluginsUserPreferences/
 
-# OS / Editor
-.DS_Store
-Thumbs.db
+# Temporary runtime data
+Temp/
+Logs/
 
-# Temporary / lock files
+###############################################################################
+# OS / EDITOR FILES
+###############################################################################
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code / IDE
+.vscode/
+
+###############################################################################
+# TEMPORARY / LOCK FILES
+###############################################################################
+
 *.lock
 *.tmp
 *.log
 
-# User-specific configs
+###############################################################################
+# USER-SPECIFIC CONFIG (DO NOT SHARE)
+###############################################################################
+
 *.user
+
+###############################################################################
+# TYPESCRIPT / JAVASCRIPT BUILD ARTIFACTS
+###############################################################################
+
+# Keep config files, ignore generated junk if any
+*.tsbuildinfo
+
+###############################################################################
+# LENS STUDIO – KEEP THESE (IMPORTANT)
+###############################################################################
+
+# DO NOT IGNORE THESE — PROJECT MUST BE CLONEABLE & FUNCTIONAL
+!Packages/
+!Support/
+!Assets/
+!*.esproj
+!jsconfig.json
+!tsconfig.json
+
+###############################################################################
+# GIT ATTRIBUTES (KEEP)
+###############################################################################
+
+!.gitattributes
