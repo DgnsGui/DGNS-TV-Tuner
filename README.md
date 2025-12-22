@@ -93,7 +93,7 @@ After cloning this repository, you may notice that some Spectacles-specific pack
 
 WebKit, Spectacles Interaction Kit and Spectacles UI Kit
 
-To resolve this please open Asset Library and enable WebKit, Spectacles Interaction Kit and Spectacles UI Kit. <img width="1809" height="1393" alt="image" src="https://github.com/user-attachments/assets/3a993d83-b515-4aa8-a03b-13d27f11c4e3" />
+To resolve this please open Asset Library and enable WebKit, Spectacles Interaction Kit and Spectacles UI Kit. https://github.com/user-attachments/assets/3a993d83-b515-4aa8-a03b-13d27f11c4e3
 
 
 Why?
