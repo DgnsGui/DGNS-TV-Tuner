@@ -86,6 +86,24 @@ They fall into two categories:
 ```bash
 git clone https://github.com/DgnsGui/DGNS-TV-Tuner.git
 
+⚠️ Important — Missing Packages After Cloning
+Spectacles Interaction Kit & UI Kit
+
+After cloning this repository, you may notice that some Spectacles-specific packages are missing, such as:
+
+Spectacles Interaction Kit
+
+Spectacles UI Kit
+
+Other Snap-provided Lens Studio packages
+
+This is expected behavior.
+
+Why?
+
+These packages are not distributed through GitHub and are instead managed directly by Lens Studio.
+They are intentionally excluded from version control to keep the repository clean, lightweight, and compliant with Snap’s distribution model.
+
 📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
