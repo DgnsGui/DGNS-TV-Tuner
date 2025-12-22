@@ -15,9 +15,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/53a0fa4f-fa52-4cea-8c0e-10f3eaa41890" alt="Project Preview GIF" width="600"/>
 </p>
-  <!-- Optional preview image or GIF -->![DGNSTVTunerTrailerretake-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/53a0fa4f-fa52-4cea-8c0e-10f3eaa41890)
 
-  <!-- <img src="PREVIEW_IMAGE_URL" alt="Project Preview" width="600" /> -->
 </p>
 
 ---
