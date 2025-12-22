@@ -86,28 +86,6 @@ They fall into two categories:
 ```bash
 git clone https://github.com/DgnsGui/DGNS-TV-Tuner.git
 
-⚠️ Important — Missing Packages After Cloning
-Spectacles Interaction Kit & UI Kit
-
-After cloning this repository, Lens Studio may indicate that some Spectacles-specific packages are missing, including:
-
-WebKit
-
-Spectacles Interaction Kit
-
-Spectacles UI Kit
-
-This is expected behavior.
-
-To resolve the issue, simply open Lens Studio, go to the Asset Library, and enable the missing packages listed above.
-Once enabled, the project will automatically reconfigure itself and function as intended.
-
-
-Why?
-
-These packages are not distributed through GitHub and are instead managed directly by Lens Studio.
-They are intentionally excluded from version control to keep the repository clean.
-
 📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
