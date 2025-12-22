@@ -13,9 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/53a0fa4f-fa52-4cea-8c0e-10f3eaa41890" alt="Project Preview GIF" width="600"/>
+  <img src="https://github.com/user-attachments/assets/93784141-c6d1-4491-9519-6df55e953f52" width="600"/>
 </p>
-
 </p>
 
 ---
