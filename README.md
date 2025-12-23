@@ -85,9 +85,6 @@ They fall into two categories:
 ```bash
 git clone https://github.com/DgnsGui/DGNS-TV-Tuner.git
 
-📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for details.
 ```
 <p align="center">
   Developed with ❤️ by GuillaumeDGNS
